@@ -12,4 +12,4 @@
 - Third year Cybersecurity major
 
 ## Favorite Meme
-![My Favorite Meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7thh12jrnbh61.png)
+![Favorite Meme Link](https://i.redd.it/7thh12jrnbh61.png)
